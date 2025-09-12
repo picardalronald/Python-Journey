@@ -1,4 +1,5 @@
 # Simple Calculator
+
 fnum = input("Enter first number: ")
 snum = input("Enter second number: ")
 symbol = input("Choose operation (+, -, *, /): ")
