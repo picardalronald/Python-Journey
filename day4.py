@@ -48,6 +48,6 @@ while True:
 
     elif choice == "4":
         print("Exiting program. Goodbye!")
-        exit
+        exit()
     else:
         print("Invalid choice, please try again.")
