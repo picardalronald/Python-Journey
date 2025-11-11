@@ -5,7 +5,4 @@ if (year % 4 == 0) and (year % 100 != 0) or (year % 400 == 0):
     print(f"it is a leap year {year}")
 else:
     print(f"it is not leap year {year}")
-<<<<<<< HEAD
-=======
-    
->>>>>>> 454c43b (Save all local changes before rebase)
+
